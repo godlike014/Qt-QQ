@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/1.png</file>
+        <file>image/2.png</file>
+        <file>image/3.png</file>
+        <file>image/4.png</file>
+        <file>image/5.png</file>
+        <file>image/6.png</file>
+        <file>image/7.png</file>
+        <file>image/8.png</file>
+        <file>image/9.png</file>
+        <file>image/qq.png</file>
+        <file>image/bold.png</file>
+        <file>image/clear.png</file>
+        <file>image/color.png</file>
+        <file>image/italic.png</file>
+        <file>image/save.png</file>
+        <file>image/send.png</file>
+        <file>image/underline.png</file>
+    </qresource>
+</RCC>
